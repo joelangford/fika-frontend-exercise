@@ -3,7 +3,7 @@
 ## Next Steps
 * Debounce search results to minimise api calls
 * Handle cancelling api calls once state has changed
-* Actually test it an andorid (didn't have the emulator set up)
+* Actually test it on andorid (didn't have the emulator set up)
 
 ## Original description
 
