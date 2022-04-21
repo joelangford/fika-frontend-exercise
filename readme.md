@@ -1,5 +1,12 @@
 # FikaSearch Exercise
 
+## Next Steps
+* Debounce search results to minimise api calls
+* Handle cancelling api calls once state has changed
+* Actually test it an andorid (didn't have the emulator set up)
+
+## Original description
+
 The objective of this exercise is to fork this repository and create a `react-native` app called 'FikaSearch'. This app will comprise of a listing page of films and the names of their genres. The page should also allow the user to search the films by typing into a text field.
 
 We expect you to have an understandable structure, clean code, and to be able to describe your next steps in any aspects of the challenge you arent able to complete in a few of hours.
